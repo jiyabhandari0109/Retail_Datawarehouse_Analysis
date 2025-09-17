@@ -7,11 +7,9 @@ The main objectives are:
 - Apply **advanced analysis** to derive meaningful insights.  
 - Build a foundation for **reporting and visualization**.
 
-Repository Structure  
+## Repository Structure
 
-```text
-Retail_Datawarehouse_Analysis/
-│── Datasets/          # Sample datasets used for analysis  
-│── Scripts/           # SQL scripts for exploration and advanced analysis  
-│── Reports/           # Insights and output from queries (optional)  
-│── README.md          # Project documentation  
+- [Datasets](./Datasets)
+- [Scripts](./Scripts)
+- [Reports](./Reports)
+- README.md
