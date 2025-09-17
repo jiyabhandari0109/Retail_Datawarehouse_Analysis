@@ -1,6 +1,5 @@
 # Retail Data Warehouse Analysis  
 
-## 📌 Project Overview  
 This project focuses on analyzing sales, customers and product data from an **international bike store** using SQL.
 
 The main objectives are:  
