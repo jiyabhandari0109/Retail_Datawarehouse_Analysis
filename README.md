@@ -8,6 +8,6 @@
 ---
 
 ### Retail Sales Dashboard
-This dashboard provides insights into overall sales performance, product categories, and consumer density.  
+This dashboard provides insights into overall sales performance, product categories, and consumer behavior.  
 
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/RetailDataWarehouseAnalysis/Dashboard1?:language=enUS&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
