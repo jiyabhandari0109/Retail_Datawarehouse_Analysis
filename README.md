@@ -2,7 +2,7 @@
 
 ## Objectives
 - **Design and build** a retail data warehouse for structured reporting.  
-- Write SQL queries for **business analysis** including sales trends and customer insights.  
+- Write SQL queries for **business analysis** including sales trends, customer behavior, and product insights.  
 - Build an interactive **visualization dashboard** using Tableau.
 
 ---
