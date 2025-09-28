@@ -1,4 +1,4 @@
-# Retail Datawarehouse Analysis
+# Retail Data Warehouse Analysis
 
 ## Objectives
 - **Design and build** a retail data warehouse for structured reporting.  
